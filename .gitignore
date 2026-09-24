@@ -1,0 +1,14 @@
+# Client reference material: keep local, never push
+Figma_Mockup_Brief.docx
+Mockup_Data_Pack.xlsx
+Mockup_Data_Pack/
+*.docx
+*.xlsx
+*.xls
+*.csv
+*.pdf
+references/
+
+.DS_Store
+node_modules/
+.vercel
